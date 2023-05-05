@@ -69,4 +69,3 @@ jobs:
           source "$HOME/.cargo/env"
           make
           make cargo-build
-
